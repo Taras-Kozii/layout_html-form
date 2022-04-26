@@ -1,11 +1,7 @@
-input {
+.input {
   margin-bottom: 10px;
 }
 
-input:last-of-type {
-  margin-bottom: initial;
-}
-
-fieldset {
+.fieldset {
   margin-bottom: 20px;
 }
